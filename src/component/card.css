@@ -1,0 +1,7 @@
+#card{
+    width: 100%;
+    border: 10px solid grey;
+  }
+  #card img{
+    width: 100%;
+  }
